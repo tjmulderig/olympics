@@ -1,0 +1,9 @@
+# This is an example configuration file for redis db
+# This is a configuration file for redis db
+
+redis:
+  host: # put host name here #
+  db: 0
+  user: default
+  password: # put pw here #
+  port: 14067
